@@ -1,0 +1,14 @@
+{
+  "name": "01-require",
+  "version": "1.0.0",
+  "description": "Programa para obtener tablas de multiplicar.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Giannici",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^12.0.5"
+  }
+}
